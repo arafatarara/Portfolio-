@@ -1,0 +1,123 @@
+{
+  "site": {
+    "title": "Arara — Student Portfolio",
+    "name": "Arara",
+    "initials": "AR",
+    "availabilityText": "Available for opportunities",
+    "onlineText": "Online"
+  },
+  "theme": {
+    "primary": "#8B5CF6",
+    "secondary": "#2563EB",
+    "tertiary": "#60A5FA",
+    "primaryRgb": "139,92,246",
+    "secondaryRgb": "37,99,235",
+    "tertiaryRgb": "96,165,250"
+  },
+  "hero": {
+    "profilePic": "assets/images/profile.jpg",
+    "name": "Arara",
+    "tagline": "Computer Science Student · Aspiring Full-Stack Developer",
+    "university": "🎓 State University — Class of 2026",
+    "ctaPrimary": { "text": "Get In Touch", "href": "#contact" },
+    "ctaSecondary": { "text": "View Projects", "href": "#projects" }
+  },
+  "about": {
+    "personalDetails": {
+      "fullName": "Arara",
+      "dob": "March 15, 2003",
+      "nationality": "American",
+      "languages": "English, Spanish, French",
+      "major": "B.Tech Computer Science & Engineering",
+      "rollNo": "CS-2023-0847"
+    },
+    "bio": "I'm a passionate Computer Science student in my junior year, deeply interested in web development, machine learning, and cloud computing. I love building things that live on the internet. When I'm not coding, you'll find me reading about new tech trends, contributing to open-source projects, or playing basketball with friends.",
+    "liveInfo": {
+      "semester": "5th Sem",
+      "cgpa": "8.7"
+    }
+  },
+  "skills": {
+    "proficiency": [
+      { "name": "Python", "level": 90 },
+      { "name": "JavaScript / TypeScript", "level": 85 },
+      { "name": "React / Next.js", "level": 80 },
+      { "name": "Node.js / Express", "level": 75 },
+      { "name": "SQL / Databases", "level": 82 },
+      { "name": "Java / C++", "level": 70 }
+    ],
+    "tools": [
+      "Git & GitHub",
+      "VS Code",
+      "Docker",
+      "AWS",
+      "Firebase",
+      "Figma",
+      "Linux",
+      "MongoDB",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "TensorFlow",
+      "REST APIs"
+    ],
+    "softSkills": [
+      { "icon": "users", "label": "Teamwork" },
+      { "icon": "mic", "label": "Communication" },
+      { "icon": "lightbulb", "label": "Problem Solving" },
+      { "icon": "clock", "label": "Time Management" },
+      { "icon": "target", "label": "Leadership" },
+      { "icon": "refresh-cw", "label": "Adaptability" }
+    ]
+  },
+  "projects": [
+    {
+      "title": "AI Mental Health Chatbot",
+      "description": "A conversational assistant that offers students quick, judgement-free check-ins and coping resources. Built in 36 hours for a hackathon.",
+      "tags": ["Python", "Flask", "TensorFlow"],
+      "icon": "message-square-code",
+      "iconColor": "var(--theme-primary)",
+      "iconBg": "rgba(var(--theme-primary-rgb),.06)",
+      "image": null,
+      "liveUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "title": "Full-Stack E-Commerce App",
+      "description": "A complete storefront with cart, checkout, and an admin dashboard for managing products and orders.",
+      "tags": ["React", "Node.js", "MongoDB"],
+      "icon": "shopping-cart",
+      "iconColor": "#60A5FA",
+      "iconBg": "rgba(var(--theme-secondary-rgb),.08)",
+      "image": null,
+      "liveUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "title": "Personal Finance Tracker",
+      "description": "A dashboard that visualizes spending habits, sets budgets, and forecasts monthly balances using simple ML models.",
+      "tags": ["Next.js", "PostgreSQL", "Tailwind"],
+      "icon": "line-chart",
+      "iconColor": "#C084FC",
+      "iconBg": "rgba(168,85,247,.08)",
+      "image": null,
+      "liveUrl": "#",
+      "githubUrl": "#"
+    }
+  ],
+  "contact": {
+    "homeAddress": "1234 Oak Street, Apt 5B<br>Springfield, IL 62704, USA",
+    "email": "arara@university.edu",
+    "phone": "+1 (555) 123-4567",
+    "uniAddress": "State University, Department of CS<br>University Drive, Campus Rd, IL 62701"
+  },
+  "social": [
+    { "platform": "discord", "label": "Discord", "url": "#" },
+    { "platform": "instagram", "label": "Instagram", "url": "#" },
+    { "platform": "linkedin", "label": "LinkedIn", "url": "#" },
+    { "platform": "x", "label": "X", "url": "#" }
+  ],
+  "footer": {
+    "copyright": "© 2025 Arara. All rights reserved.",
+    "tagline": "Built with"
+  }
+}
